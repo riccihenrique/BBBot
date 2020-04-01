@@ -1,11 +1,6 @@
-<h1 align="center">
-  BBBot
-</h1>
+# BBBot - Um bot pra votar na plataforma do GSHOW (De preferência em quem for causar mais polêmica hehe)
 
-<h3 align="center">
-    Um bot pra votar na plataforma do GSHOW (De preferência em quem for causar mais polemica hehe)
-</h3>
-
+Obrigado <a href="https://github.com/DanielHe4rt">DanielHe4et</a> pela iniciativa
 
 ## Como instalar e iniciar o bot?
 
@@ -41,4 +36,3 @@
 
 #### 3. Digite npm i
 
-Obrigado <a href="https://github.com/DanielHe4rt">DanielHe4et</a> pela iniciativa
