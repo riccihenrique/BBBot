@@ -11,7 +11,7 @@
 
 ### 1. Baixe o node em: https://nodejs.org/en/download/
 
-### 2. Baixe o bot em: https://github.com/riccihenrique/bbbot-1/archive/master.zip
+### 2. Baixe o bot em: https://github.com/riccihenrique/BBBot/archive/master.zip
 
 ### 3. Entre na pasta do BOT e clique em `install.bat`;
 
